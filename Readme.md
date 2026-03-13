@@ -105,15 +105,15 @@ This information allows analysis of **sales performance across different product
 
 ## Dashboard Preview
 
-![Dashboard](Images/dashboard_preview.png)
+![Dashboard](Images/dashboard_preview.png.png)
 
 ## Sales Trend
 
-![Sales Trend](Images/sales_trend.png)
+![Sales Trend](Images/sales_trend.png.png)
 
 ## Top Category Analysis
 
-![Top Category](Images/top_category.png)
+![Top Category](Images/top_category.png.png)
 
 
 ---
@@ -269,5 +269,6 @@ Excel • SQL • Python • Data Visualization
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=default)
 
 Replace **YOUR_GITHUB_USERNAME** with your GitHub username.
+
 
 
